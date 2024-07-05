@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+
+    margin: auto;
+    min-width: 320px;
+    max-width: 810px;
+}
+
+img{
+    width: 100%;
+}
